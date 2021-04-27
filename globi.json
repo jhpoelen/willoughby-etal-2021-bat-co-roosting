@@ -1,5 +1,5 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
-  "deprecated": false
+  "citation": "Anna Willoughby et al. 2021. Bat co-roosting interactions extracted from literature.",
+  "url": "https://docs.google.com/spreadsheets/d/11GsFh1sZc7_Q92TF5DSkfa8pFfXiq_R_wRX-j34OzsM/export?format=tsv"
 }
