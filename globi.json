@@ -1,4 +1,6 @@
 {
+  "_comment" : "this index configuration has been deprecated",
+  "deprecated" : "true",
   "@context" : [ "http://www.w3.org/ns/csvw", {
     "@language" : "en"
   } ],
